@@ -25,7 +25,7 @@ CREATE TABLE dogs (
 );
 
 INSERT INTO dogs (name, breed, contact_number, date_lost, last_location, picture_URL, Reward, Owners_name, Address, dog_description, Found)
-VALUES ("Sr.Fluffy Boots", "Blood Hound", "(555)555-5555", "3/10/2018", "1234 Hackberry Drv.", "
+VALUES ("Sr.Fluffy Boots", "Blood Hound", "(555)555-5555", "3/10/2018", "jasmine court", "", "$500", "Jeffrey", "1234 Hackberry Drv.", "Small Yorkie, with bright blue colar on and a silver/black coat", false);
 ("cujo", "Pitbull", 25),
 ("Bubbles", "Yorkie", 5);
 
